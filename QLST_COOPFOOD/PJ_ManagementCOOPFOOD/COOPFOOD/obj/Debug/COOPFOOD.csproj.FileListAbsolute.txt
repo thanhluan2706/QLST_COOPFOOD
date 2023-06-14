@@ -1,0 +1,78 @@
+E:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.exe
+E:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.pdb
+E:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.Properties.Resources.resources
+E:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.csproj.GenerateResource.Cache
+E:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.exe
+E:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.pdb
+E:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmThongTin.resources
+E:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.csprojResolveAssemblyReference.cache
+E:\Hk1-22-23\Lập trình ứng dụng\Project\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.exe
+E:\Hk1-22-23\Lập trình ứng dụng\Project\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.pdb
+E:\Hk1-22-23\Lập trình ứng dụng\Project\Project\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.exe
+E:\Hk1-22-23\Lập trình ứng dụng\Project\Project\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.pdb
+E:\Hk1-22-23\Lập trình ứng dụng\Project\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.csprojResolveAssemblyReference.cache
+E:\Hk1-22-23\Lập trình ứng dụng\Project\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmKhachHang.resources
+E:\Hk1-22-23\Lập trình ứng dụng\Project\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.Properties.Resources.resources
+E:\Hk1-22-23\Lập trình ứng dụng\Project\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.csproj.GenerateResource.Cache
+E:\Hk1-22-23\Lập trình ứng dụng\Project\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmNhanVien.resources
+F:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.exe
+F:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.pdb
+F:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.exe
+F:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.pdb
+F:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.csprojResolveAssemblyReference.cache
+F:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmKhachHang.resources
+F:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmNhanVien.resources
+F:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.Properties.Resources.resources
+F:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.csproj.GenerateResource.Cache
+D:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.exe
+D:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.pdb
+D:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.csprojResolveAssemblyReference.cache
+D:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmKhachHang.resources
+D:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmNhanVien.resources
+D:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmMain.resources
+D:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.Properties.Resources.resources
+D:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.csproj.GenerateResource.Cache
+D:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.exe
+D:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.pdb
+D:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmHoaDon.resources
+C:\Users\j4thong\Desktop\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.exe
+C:\Users\j4thong\Desktop\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.pdb
+F:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.exe
+F:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.pdb
+F:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.exe
+F:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.pdb
+F:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.csprojResolveAssemblyReference.cache
+F:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmHoaDon.resources
+F:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmKhachHang.resources
+F:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmNhaCungCap.resources
+F:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmNhanVien.resources
+F:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmMain.resources
+F:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.Properties.Resources.resources
+F:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.csproj.GenerateResource.Cache
+E:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.exe
+E:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.pdb
+E:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.exe
+E:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.pdb
+E:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.csprojResolveAssemblyReference.cache
+E:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmHoaDon.resources
+E:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmKhachHang.resources
+E:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmNhaCungCap.resources
+E:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmNhanVien.resources
+E:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmMain.resources
+E:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.Properties.Resources.resources
+E:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.csproj.GenerateResource.Cache
+F:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmHangHoa.resources
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.exe
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.pdb
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.exe
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.pdb
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.csprojResolveAssemblyReference.cache
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmHoaDon.resources
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmHangHoa.resources
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmKhachHang.resources
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmNhaCungCap.resources
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmNhanVien.resources
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmMain.resources
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.Properties.Resources.resources
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.csproj.GenerateResource.Cache
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.exe.config
